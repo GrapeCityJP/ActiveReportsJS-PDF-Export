@@ -2,7 +2,7 @@
 ActiveReportsJSでPDFエクスポートを行うサンプルです。
 
 ## Requirement
-あらかじめNode.jsの安定版をインストールして下さい。
+あらかじめNode.jsの安定版をインストールして下さい。  
 https://nodejs.org/ja/
 
 ## Usage
