@@ -10,11 +10,7 @@ https://nodejs.org/ja/
 ```
 $ npm install
 ```
-続いてActiveReportsJSのライブラリをインストールします（バージョンは適宜変更してください）。
-```
-$ npm install @grapecity/activereports@1.2.0 @grapecity/activereports-localization@1.2.0 
-```
-最後に以下のコマンドでビルドします。
+パッケージのインストールが完了したら、以下のコマンドでビルドします。
 ```
 $ npm run build
 ```
