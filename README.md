@@ -1,5 +1,6 @@
 # ActiveReportsJS-PDF-Export
 ActiveReportsJSでPDFエクスポートを行うサンプルです。
+https://devlog.grapecity.co.jp/entry/2020/04/27/activereportsjs-pdf-export
 
 ## Requirement
 あらかじめNode.jsの安定版をインストールして下さい。  
